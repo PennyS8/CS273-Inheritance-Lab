@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SimpsonFace
+comment1.params=w\ h
+comment1.target=SimpsonFace(int,\ int)
+comment2.params=
+comment2.target=java.awt.Color\ mouthColor()
+comment3.params=
+comment3.target=Polygon2\ createMouth()
+comment4.params=g
+comment4.target=void\ drawMouth(java.awt.Graphics)
+numComments=5

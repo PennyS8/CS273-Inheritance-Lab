@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CenteredPolygon
+comment0.text=\r\n\ CenteredPolygon\ -\ A\ specialized\ subclass\ of\ Polygon2\ designed\ for\r\n\ creating\ and\ positioning\ polygons\ centered\ relative\ to\ a\ bounding\ box.\r\n\ \r\n\ Features\:\r\n\ \ \ A\ crescentPercent\ contructor\ defines\ this\ object\ as\ a\ CenteredPolygon\ when\ the\ \r\n\ \ \ \ \ \ constructor\ is\ called\ with\ a\ double\ (as\ opposed\ to\ a\ Polygon2)\r\n\ \ \ \r\n\ \ \ An\ @Override\ for\ the\ Polygon2\ fitIn\ method\ that\ uses\ the\ center\ of\ the\ polygon\r\n\ \ \ \ \ \ instead\ of\ the\ top\ left\ like\ a\ Polygon2\ does\r\n\r\n\ @author\ Penny\ Silliman\r\n\ @version\ 11/20/24\r\n
+comment1.params=crescentPercent
+comment1.target=CenteredPolygon(double)
+comment2.params=left\ top\ width\ height
+comment2.target=Polygon2\ fitIn(int,\ int,\ int,\ int)
+comment2.text=\r\n\ @param\ left\ \ \ \ \ \ The\ x-coordinate\ of\ the\ rectangle's\ left\ edge\r\n\ @param\ top\ \ \ \ \ \ \ The\ y-coordinate\ of\ the\ rectangle's\ top\ edge.\r\n\ @param\ width\ \ \ \ \ The\ width\ of\ the\ bounding\ rectangle.\r\n\ @param\ height\ \ \ \ The\ height\ of\ the\ bounding\ rectangle.\r\n\ @return\ A\ new\ Polygon2\ object\ scaled\ and\ positioned\ inside\ the\ rectangle.\r\n
+numComments=3

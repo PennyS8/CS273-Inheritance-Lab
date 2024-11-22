@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BobbyFace
+comment1.params=w\ h
+comment1.target=BobbyFace(int,\ int)
+numComments=2

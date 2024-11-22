@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FaceLabel
+comment1.params=str\ xx\ yy\ font\ color
+comment1.target=FaceLabel(java.lang.String,\ int,\ int,\ java.awt.Font,\ java.awt.Color)
+comment2.params=str\ xx\ yy
+comment2.target=FaceLabel(java.lang.String,\ int,\ int)
+comment3.params=g
+comment3.target=void\ drawOn(java.awt.Graphics)
+numComments=4
